@@ -1,4 +1,4 @@
-## Bienbenido a mi pagina de GitHub
+## Bienvenido a mi pagina de GitHub
 
 You can use the [editor on GitHub](https://github.com/BrayanFranklinSalinas/BrayanFranklinSalinas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
