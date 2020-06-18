@@ -37,5 +37,5 @@ body {
   background-color: #fefbd8;
 }
 p {
-  font-style: oblique;
+  font: oblique bold 120% cursive;
 }
